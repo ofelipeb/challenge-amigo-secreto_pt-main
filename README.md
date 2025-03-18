@@ -28,4 +28,4 @@ HTML: Estrutura da página.
 CSS: Estilização e design responsivo.
 JavaScript: Lógica do sorteio e interatividade.
 Como Executar
-Clone o repositório: ```bash git clone https://github.com/ofelipeb/amigo-secreto.git
+Clone o repositório: ```bash git clone https://github.com/ofelipeb/challenge-amigo-secreto_pt-main 
