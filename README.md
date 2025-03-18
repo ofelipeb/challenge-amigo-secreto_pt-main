@@ -35,4 +35,4 @@ O projeto **Amigo Secreto** permite:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ofelipeb/amigo-secreto.git
+   git clone https://github.com/ofelipeb/challenge-amigo-secreto_pt-main/tree/main
